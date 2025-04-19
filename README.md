@@ -4,7 +4,7 @@
 
 ---
 
-## 🎛️ Features
+## Features
 
 - **Real‑time WAV recording** directly from your Master insert  
 - **Threaded file I/O** using JUCE’s `AudioFormatWriter::ThreadedWriter`  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
