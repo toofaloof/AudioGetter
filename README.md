@@ -1,6 +1,6 @@
-# CursorAssistant
+# AudioGetter
 
-**CursorAssistant** is a lightweight JUCE‑based audio plugin for real‑time session capture in your DAW. Hit **Record**, play your session, then **Stop** — the plugin drops a `CursorSession.wav` in your Documents folder.
+**AudioGetter** is a lightweight JUCE‑based audio plugin for real‑time session capture in your DAW. Hit **Record**, play your session, then **Stop** — the plugin drops a wav-file in your Documents folder.
 
 ---
 
@@ -28,8 +28,8 @@
 ### Clone & Build
 
 ```bash
-git clone https://github.com/toofaloof/CursorAssistant.git
-cd CursorAssistant
+git clone https://github.com/toofaloof/AudioGetter.git
+cd AudioGetter
 mkdir build && cd build
 cmake ..
 cmake --build . --config Release
